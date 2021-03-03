@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Table Layout</string>
+    <string name="tvLoginForm">Login Form</string>
+    <string name="tvUsername">User</string>
+    <string name="tvPassword">Password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="ivLogo">Icon Login</string>
+</resources>
